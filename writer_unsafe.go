@@ -1,4 +1,4 @@
-// +build !appengine
+// +build !appengine,!tinygo
 
 package fwd
 
